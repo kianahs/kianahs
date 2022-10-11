@@ -8,7 +8,7 @@
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kianahs)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kianahs&layout=Demo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kianahs&layout=Compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
