@@ -1,7 +1,7 @@
 ### Hi there 👋 Im Kiana Hadysadegh
 
 - 🔭 I’m currently a B.Sc Student of Computer Engineering at Amirkabir University of Technology  
-- 🌱 I’m currently learning: Deep learning, Web programming and android programming.
+- 🌱 I’m currently learning: Deep learning, Computer vision.
 - 👯 I’m looking to collaborate on deep learning projects.
 - 💬 Ask me about anything
 - 📫 You can reach me by: hadysadegh@gmail.com
