@@ -1,10 +1,10 @@
 ### Hi there 👋 Im Kiana Hadysadegh
 
-- 🔭 I’m currently a B.Sc Student of Computer Engineering at Amirkabir University of Technology  
-- 🌱 I’m currently learning: Deep learning, Computer vision.
-- 👯 I’m looking to collaborate on deep learning projects.
+- 🔭 I’m currently an MSc Student of Artificial Intelligence at Queen Mary University of London  
+- 🌱 I’m currently learning: Computer vision, Machine Learning, Artificial Intelligence, and Statistics courses.
+- 👯 I’m looking to collaborate on AI and Data science projects.
 - 💬 Ask me about anything
-- 📫 You can reach me by: hadysadegh@gmail.com
+- 📫 You can reach me at: hadysadegh@gmail.com
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kianahs)](https://github.com/anuraghazra/github-readme-stats) -->
