@@ -1,7 +1,7 @@
 ### Hi there 👋 Im Kiana Hadysadegh
 
 - 🔭 I’m currently an MSc Student of Artificial Intelligence at Queen Mary University of London  
-- 🌱 I’m currently learning: Computer vision, Machine Learning, Artificial Intelligence, and Statistics courses.
+- 🌱 I’m currently learning: Deep learning, Computer vision, Cognitive Robotics, and Advanced Robotics courses.
 - 👯 I’m looking to collaborate on AI and Data science projects.
 - 💬 Ask me about anything
 - 📫 You can reach me at: hadysadegh@gmail.com
