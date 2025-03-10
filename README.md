@@ -1,6 +1,6 @@
 ### Hi there 👋 Im Kiana Hadysadegh
 
-- 🔭 AI & CS Engineer (MSc Artificial Intelligence at Queen Mary University of London, BSc Computer Engineering at Amirkabir University of Technology)   
+- 🔭 Generative AI Engineer (MSc Artificial Intelligence at Queen Mary University of London, BSc Computer Engineering at Amirkabir University of Technology)   
 - 🌱 I’m continuously learning: Data science, Generative AI, Computer vision, Machine Learning, and Deep Learning models.
 - 👯 I’m looking to collaborate on AI and Data science projects.
 - 💬 Ask me about anything
